@@ -22,7 +22,7 @@ The goal is to **launch FreshMart soon in Shirpur**, so anyone there can shop on
 I’m currently finishing the **Admin Panel** and **Manual Product Listing** features.  
 Once those are complete, FreshMart will go live officially 🚀
 
->> DUE TO SOME TECHNICAL PROBLEM and PERSONAL MATTERS STARTUP IS UNDER HOLD FOR FEW DAYS.
+>> All problems are solved web is under development.
 
 ---
 
