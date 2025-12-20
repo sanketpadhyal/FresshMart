@@ -1,4 +1,7 @@
-# 🛒 FreshMart — Fast • Fresh • Mobile-First Grocery App
+# FreshMart
+<a href="https://www.fresshmart.in">
+    <img src="./logo.png" alt="FRESSHMART LOGO" width="55" />
+</a>
 
 Welcome to **FreshMart**, a clean and modern **mobile-first grocery web app** built with **React and CSS**.  
 It’s designed to give users a **super smooth shopping experience**, just like real quick delivery apps!
