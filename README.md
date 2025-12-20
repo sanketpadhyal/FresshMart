@@ -1,6 +1,6 @@
 # FreshMart
 <a href="https://www.fresshmart.in">
-    <img src="./logo.png" alt="FRESSHMART LOGO" width="55" />
+    <img src="./fresshmart.png" alt="FRESSHMART LOGO" width="55" />
 </a>
 
 Welcome to **FreshMart**, a clean and modern **mobile-first grocery web app** built with **React and CSS**.  
