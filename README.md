@@ -1,15 +1,18 @@
-# FreshMart
 <a href="https://www.fresshmart.in">
-    <img src="./fresshmart.png" alt="FRESSHMART LOGO" width="55" />
+  <img src="./fresshmart.png" alt="FreshMart Logo" width="155" />
 </a>
 
-Welcome to **FreshMart**, a clean and modern **mobile-first grocery web app** built with **React and CSS**.  
-It’s designed to give users a **super smooth shopping experience**, just like real quick delivery apps!
-
-🌐 **Official Domain:** [www.fresshmart.in](https://www.fresshmart.in)  
-🚀 **Launching soon in Shirpur, India!**
-
 ---
+
+<a href="https://www.fresshmart.in">
+  <img src="./logo.png" alt="FreshMart Icon" width="55" />
+</a>
+
+**FreshMart** is a modern, **mobile-first grocery web application** built using **React and CSS**, focused on delivering a fast, smooth, and intuitive shopping experience inspired by real-world quick-delivery platforms.
+
+🌐 **Live Domain:** https://www.fresshmart.in  
+📍 **Launching soon in Shirpur, India**
+
 
 ## 🌿 About FreshMart
 
