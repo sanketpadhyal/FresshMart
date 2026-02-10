@@ -107,6 +107,11 @@ _“FreshMart – bringing fresh shopping to Shirpur, one tap at a time.”_
 
 ---
 
+### 📅 Project Information
+Created: Nov 3, 2025
+
+---
+
 ### 💤 Note from Developer
 
 I’m currently **less active on GitHub** because I’m fully focused on **completing and launching FreshMart** soon.  
