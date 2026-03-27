@@ -13,7 +13,7 @@
 🌐 **Live Domain:** https://www.fresshmart.in  
 📍 **Launching soon in Shirpur, India**
 
->> NOTE : FRESSHMART IS GOING FOR DEEP DEVELOPMENT SOON JUST FINDING A TEAM FOR IT.
+>> NOTE : FRESSHMART IS GOING FOR DEEP DEVELOPMENT SOON JUST FINDING A TEAM FOR IT, IF ANYONE WANT TO JOIN FOR THIS PROJECT DM ME ON SPARSE www.sparse.in/u/sanket
 
 
 ## 🌿 About FreshMart
